@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "NicheNet",
+    "subtitle": "Built with Zara",
+    "description": "NicheNet is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app",
+    "splashImageUrl": "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app/image.png",
+    "tagline": "NicheNet",
+    "screenshotUrls": [
+      "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app/screenshot.png",
+      "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://24cafa9cd94047b79522186ca4ba302a-7wqk-gwpdkxuzr-vistara.vercel.app/api/webhook"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "NicheNet",
+  "description": "NicheNet is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://24cafa9c-d940-47b7-9522-186ca4ba302a.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "NicheNet",
+      "description": "NicheNet is a Base Mini App built with Zara.",
+      "url": "https://24cafa9c-d940-47b7-9522-186ca4ba302a.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
